@@ -37,14 +37,6 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
----
-
-<h3 align="left">📈 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashwatbhatt18&show_icons=true&theme=tokyonight" alt="Shashwat's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatbhatt18&theme=tokyonight" alt="Shashwat's GitHub streak" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Coding gif"/>
